@@ -18,6 +18,7 @@
 - ask the user to insert a number to devide the product.
 ---
 ## What does the program look like? (visual)
+![consol pic](./img/game1.png)
 
 
 
